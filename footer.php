@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="src/style.css">
+    <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
   </head>
   <body>
