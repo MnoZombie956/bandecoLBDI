@@ -2,6 +2,8 @@
 
 Laboratorio de Banco de Dados I | Prof. Evandrino | CEFET-MG
 
+https://youtu.be/EOB_jl32mlc
+
 ## Inserções de Registro Basicas
     • "INSERT INTO LOG_ACESSO(ID_USR,ID_CAIXA,ID_REF) VALUES ('$idu','$idc','$idr')"
     • "INSERT INTO LOG_RECARGA(TIPO_PAG,VALOR,ID_USR,ID_CAIXA) values ('$tip','$val','$idu','$idc')"
